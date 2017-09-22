@@ -14,5 +14,7 @@ This script:
 2. Open https://script.google.com and create new project
 3. Copy all files from `src` directory to your project
 4. Save your project to Google Drive
-5. Click `Trigers` icon and configure periodic execution for `silverScreenTicketsFromGmailToCalendar` function
-6. Have fun from automatization ;)
+5. Set `Select function` as `silverScreenTicketsFromGmailToCalendar`
+6. Run project, grant permission and check your calendar as result
+7. Click `Trigers` icon and configure periodic execution for `silverScreenTicketsFromGmailToCalendar` function
+8. Have fun from automatization ;)
