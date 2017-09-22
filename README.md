@@ -8,7 +8,7 @@ This script:
 * Parses them 
 * Creates Google Calendar event
 
-## Instalation
+## Installation
 
 1. Take a look at Apps Script documentation https://developers.google.com/apps-script/overview
 2. Open https://script.google.com and create new project
